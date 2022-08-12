@@ -1,0 +1,16 @@
+{
+    "assignments": [
+        { "name": "Math I", "complete": false, "id": 1 , "tag": "math"},
+        { "name": "English I", "complete": false, "id": 2 , "tag": "english"},
+        { "name": "Science I", "complete": true, "id": 3 , "tag": "science"},
+        { "name": "Mapeh I", "complete": true, "id": 4 , "tag": "mapeh"},
+        { "name": "Math II", "complete": false, "id": 5 , "tag": "math"},
+        { "name": "English II", "complete": true, "id": 6 , "tag": "english"},
+        { "name": "Science II", "complete": false, "id": 7 , "tag": "science"},
+        { "name": "Mapeh II", "complete": true, "id": 8 , "tag": "mapeh"},
+        { "name": "Math III", "complete": false, "id": 9 , "tag": "math"},
+        { "name": "English III", "complete": false, "id": 10 , "tag": "english"},
+        { "name": "Science III", "complete": false, "id": 11 , "tag": "science"},
+        { "name": "Mapeh III", "complete": true, "id": 12 , "tag": "mapeh"}
+    ]
+}
